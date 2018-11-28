@@ -21,6 +21,6 @@ Put tdb copy to the path:
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/
 
 ## Download
-可以直接Clone or Download Zip
+直接 *Clone or Download Zip* 进行文件下载
 
 也可以点击[这里](https://github.com/Cui-y/Libstdc-.6.0.9-files/archive/master.zip)进行文件下载
